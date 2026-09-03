@@ -4,8 +4,3 @@ queue_rules:
       - base = main
     merge_conditions:
       - "#approved-reviews-by >= 1"
-
-commands_restrictions:
-  queue:
-    conditions:
-      - sender = ph1shingvic
