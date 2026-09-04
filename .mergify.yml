@@ -1,3 +1,7 @@
+merge_protections_settings:
+  reporting_method: deployments
+  post_comment: false
+
 queue_rules:
   - name: default
     queue_conditions:
